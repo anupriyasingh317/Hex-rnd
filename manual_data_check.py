@@ -12,8 +12,8 @@ def process_manual_data(db_handler, data):
 
 if __name__ == "__main__":
     POSTGRES_CONN_STR = (
-        "host=c-gen-ai-test-db.xyr2br6ljuwsr7.postgres.cosmos.azure.com"
-        "port=6432 dbname='rapidx' user='Codescout123' password='Codescout123' sslmode='require'"
+        "host=c-gen-ai-test-db.xyr2br6ljuwsr7.postgres.cosmos.azure.com "
+        "port=6432 dbname='rapidx' user='citus' password='Codescout123' sslmode='require'"
     )
 
     # Initialize DBHandler
