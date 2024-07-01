@@ -1,0 +1,15 @@
+                 List of relations
+  Schema  |          Name          | Type  | Owner 
+----------+------------------------+-------+-------
+ codebits | agent                  | table | citus
+ codebits | chat_sessions          | table | citus
+ codebits | code_analysis_run      | table | citus
+ codebits | code_analysis_run_file | table | citus
+ codebits | event_logs             | table | citus
+ codebits | feedback               | table | citus
+ codebits | function_symbols       | table | citus
+ codebits | llm_usage              | table | citus
+ codebits | pattern_book           | table | citus
+ codebits | projects               | table | citus
+(10 rows)
+

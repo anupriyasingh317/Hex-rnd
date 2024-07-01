@@ -1,0 +1,5 @@
+postgres:
+  url: "postgresql+psycopg2://citus:Codescout123@c-gen-ai-test-db.xyr2br6ljuwsr7.postgres.cosmos.azure.com:6432/rapidx"
+rabbitmq:
+  url: "amqps://lxptmxtz:xuBCHtJkSOBnUUHYcI8hht9A3uw1G_Dy@puffin-01.rmq2.cloudamqp.com/lxptmxtz"
+  queue_name: "my_queue"
